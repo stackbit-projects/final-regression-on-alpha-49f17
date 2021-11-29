@@ -37,7 +37,7 @@ sections:
           - pl-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         borderRadius: x-large
         borderWidth: 0
         borderStyle: solid
