@@ -40,7 +40,7 @@ sections:
         flexDirection: row
         borderRadius: x-large
         borderWidth: 0
-        borderStyle: none
+        borderStyle: solid
         borderColor: border-secondary
       title:
         textAlign: left
