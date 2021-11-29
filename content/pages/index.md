@@ -41,7 +41,7 @@ sections:
         borderRadius: x-large
         borderWidth: 0
         borderStyle: none
-        borderColor: border-primary
+        borderColor: border-secondary
       title:
         textAlign: left
       subtitle:
